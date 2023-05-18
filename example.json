@@ -1,0 +1,322 @@
+[
+    {
+        "id": 847,
+        "question": "How to list all the docker containers are running with container details.",
+        "description": null,
+        "answers": {
+            "answer_a": "$ docker ls",
+            "answer_b": "$ docker ps",
+            "answer_c": "$ docker details",
+            "answer_d": null,
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "true",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "category": "Docker",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 173,
+        "question": "Where can you  find and share Docker container images?",
+        "description": null,
+        "answers": {
+            "answer_a": "Docker Swarm",
+            "answer_b": "Docker Cloud",
+            "answer_c": "Docker Hub",
+            "answer_d": "Docker Git",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "true",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "category": "Docker",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 824,
+        "question": "test123",
+        "description": null,
+        "answers": {
+            "answer_a": "test",
+            "answer_b": "test2",
+            "answer_c": null,
+            "answer_d": null,
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": null,
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "Angular"
+            }
+        ],
+        "category": "Linux",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 915,
+        "question": "What are the responsibilities of a node controller?",
+        "description": null,
+        "answers": {
+            "answer_a": "To assign a CIDR block to the nodes",
+            "answer_b": "To monitor the health of the nodes",
+            "answer_c": "To maintain the list of nodes",
+            "answer_d": "All of the mentioned",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "true",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": null,
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "Kubernetes"
+            }
+        ],
+        "category": "DevOps",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 662,
+        "question": "Which command can give first found difference between two file after comparing?",
+        "description": null,
+        "answers": {
+            "answer_a": "diff",
+            "answer_b": "cmp",
+            "answer_c": "Common",
+            "answer_d": "stat",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "true",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "BASH"
+            }
+        ],
+        "category": "Linux",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 61,
+        "question": "All variables in PHP start with which symbol?",
+        "description": null,
+        "answers": {
+            "answer_a": "&",
+            "answer_b": "!",
+            "answer_c": "#",
+            "answer_d": "$",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "true",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_d",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "PHP"
+            }
+        ],
+        "category": "",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 310,
+        "question": "What dos the acronym CMS stands for?",
+        "description": null,
+        "answers": {
+            "answer_a": "Common manager system",
+            "answer_b": "Content manager system",
+            "answer_c": "Content management system",
+            "answer_d": null,
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "true",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "WordPress"
+            }
+        ],
+        "category": "CMS",
+        "difficulty": "Easy"
+    },
+    {
+        "id": 843,
+        "question": "Following Docker command: docker push user_name\/repository_name  is used to:",
+        "description": null,
+        "answers": {
+            "answer_a": "Activate default VM machine",
+            "answer_b": "Commit changes done in a Docker image",
+            "answer_c": "Push changes done in an docker image into Docker Hub",
+            "answer_d": "Build an image",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "true",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "Docker"
+            }
+        ],
+        "category": "Docker",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 747,
+        "question": "How to get all resources with simple output (just the resource name) in Kubernetes?",
+        "description": null,
+        "answers": {
+            "answer_a": "kubectl api -o name",
+            "answer_b": "kubectl api-resources name",
+            "answer_c": "kubectl api-resources -o name",
+            "answer_d": "kubectl api -r name",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "true",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "Kubernetes"
+            }
+        ],
+        "category": "Linux",
+        "difficulty": "Medium"
+    },
+    {
+        "id": 560,
+        "question": "How are functions in PHP which starts with __ (double underscore) known as?",
+        "description": null,
+        "answers": {
+            "answer_a": "Inbuilt Function",
+            "answer_b": "User Defined Function",
+            "answer_c": "Magic Function",
+            "answer_d": "Default Function",
+            "answer_e": null,
+            "answer_f": null
+        },
+        "multiple_correct_answers": "false",
+        "correct_answers": {
+            "answer_a_correct": "false",
+            "answer_b_correct": "false",
+            "answer_c_correct": "true",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
+        "correct_answer": "answer_a",
+        "explanation": null,
+        "tip": null,
+        "tags": [
+            {
+                "name": "PHP"
+            }
+        ],
+        "category": "Code",
+        "difficulty": "Medium"
+    }
+]
